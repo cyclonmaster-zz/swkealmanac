@@ -1,0 +1,52 @@
+{
+    "succcess": true,
+    "rows": [
+        {
+            "kumpulan": "A",
+            "negeri": "Kedah, Johor, Kelantan dan Terengganu",
+            "mulapenggal1": "3.1.2016",
+            "akhirpenggal1": "10.3.2016",
+            "jumlahpenggal1": "10",
+            "cutipenggal1": "11.3.2016 - 19.3.2016",
+            "jumlahcutipenggal1": "1",
+            "mulatengah": "20.3.2016",
+            "akhirtengah": "26.5.2016",
+            "jumlahtengah": "10",
+            "cutitengah": "27.5.2016 - 11.6.2016",
+            "jumlahcutitengah": "2",            
+            "mulapenggal2": "12.6.2016",
+            "akhirpenggal2": "8.9.2016",
+            "jumlahpenggal2": "12",
+            "cutipenggal2": "9.9.2016 - 17.9.2016",
+            "jumlahcutipenggal2": "1",
+            "mulaakhir": "18.9.2016",
+            "akhirakhir": "24.11.2016",
+            "jumlahakhir": "11",
+            "cutiakhir": "25.11.2016 - 31.12.2016",
+            "jumlahcutiakhir": "5"
+        }, {
+            "kumpulan": "B",
+            "negeri": "Perlis, Pulau Pinang, Perak, Selangor, Negeri Sembilan, Melaka, Pahang, Sabah, Sarawak, Wilayah Persekutuan Kuala Lumpur, Labuan & Putrajaya",
+            "mulapenggal1": "4.1.2016",
+            "akhirpenggal1": "11.3.2016",
+            "jumlahpenggal1": "10",
+            "cutipenggal1": "12.3.2016 - 20.3.2016",
+            "jumlahcutipenggal1": "1",
+            "mulatengah": "21.3.2016",
+            "akhirtengah": "27.5.2016",
+            "jumlahtengah": "10",
+            "cutitengah": "28.5.2016 - 12.6.2016",
+            "jumlahcutitengah": "2",            
+            "mulapenggal2": "13.6.2016",
+            "akhirpenggal2": "9.9.2016",
+            "jumlahpenggal2": "12",
+            "cutipenggal2": "10.9.2016 - 18.9.2016",
+            "jumlahcutipenggal2": "1",
+            "mulaakhir": "19.9.2016",
+            "akhirakhir": "25.11.2016",
+            "jumlahakhir": "11",
+            "cutiakhir": "26.11.2016 - 1.1.2017",
+            "jumlahcutiakhir": "5"
+        }
+    ]
+}

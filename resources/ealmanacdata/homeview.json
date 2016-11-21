@@ -1,0 +1,20 @@
+{
+    "succcess": true,
+    "rows": [
+        {
+            "id": "1",
+            "backimage": eAlmanac.util.Config.getBaseUrl() + "images/home/1/home.jpg",
+            "name": "Shows"
+        },
+        {
+            "id": "2",
+            "backimage": eAlmanac.util.Config.getBaseUrl() + "images/home/1/home.jpg",
+            "name": "Activities"
+        },
+        {
+            "id": "3",
+            "backimage": eAlmanac.util.Config.getBaseUrl() + "images/home/1/home.jpg",
+            "name": "Virals"
+        }
+    ]
+}

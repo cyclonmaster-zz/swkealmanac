@@ -1,0 +1,9 @@
+{
+    "succcess": true,
+    "rows": [        
+        { "id": "1", "time": "10:00", "eventname": "event 1 text panjangtext panjang text panjang text panjang", "haveimage": "false", "havevideo": "false"},
+        { "id": "2", "time": "14:00", "eventname": "event 2 text panjangtext panjang text panjang text panjang", "haveimage": "true", "havevideo": "false"},
+        { "id": "3", "time": "15:00", "eventname": "event 3 text panjangtext panjang text panjang text panjang", "haveimage": "false", "havevideo": "true"},
+        { "id": "4", "time": "17:00", "eventname": "event 4 text panjang text panjang text panjang text panjang", "haveimage": "true", "havevideo": "true"}
+    ]
+}
